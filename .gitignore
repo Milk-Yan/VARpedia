@@ -35,3 +35,6 @@ wiki.docx
 
 .preview.scm
 /bin/
+
+# debug files
+error.txt
